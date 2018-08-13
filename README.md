@@ -11,7 +11,7 @@
 ## Install
 
 ```
-$ npm i --save el-search-table-pagination
+$ npm i --save el-search-table-pagination-test
 ```
 
 ## Demos
