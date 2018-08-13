@@ -19,7 +19,7 @@ Import modules and set up settings in `main.js`:
 
 ```js
 import Vue from 'vue'
-import ElSearchTablePagination from 'el-search-table-pagination'
+import ElSearchTablePagination from 'el-search-table-pagination-test'
 
 // Default use axios as HTTP tool
 Vue.use(ElSearchTablePagination)
